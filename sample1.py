@@ -24,8 +24,3 @@ def move(position, roll):
 # https://www.codewars.com/kata/grasshopper-terminal-game-move-function/train/python
 # Grasshopper - Terminal game move function
 move = lambda p, r : p + r * 2
-
-
-# comment1
-# comment2
-# comment3
